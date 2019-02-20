@@ -65,7 +65,7 @@ const Navbar = class extends React.Component {
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
-              <a rel=”nofollow”
+              <a rel="nofollow"
                 className="navbar-item"
                 href="https://github.com/seastars/seastars"
                 target="_blank"
