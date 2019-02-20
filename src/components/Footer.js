@@ -15,7 +15,7 @@ const Footer = class extends React.Component {
           <img
             src={logo}
             alt="seastars.netlify.com"
-            style={{ width: '18em', height: '14em' }}
+            style={{ width: '26em', height: '18em' }}
           />
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
