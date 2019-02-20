@@ -37,7 +37,7 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="seastars.netlify.com">
-              <img src={logo} alt="seastars.netlify.com" style={{ width: '88px' }} />
+              <img src={logo} alt="seastars.netlify.com" style={{ width: '188px' }} />
             </Link>
             {/* Hamburger menu */}
             <div className="navbar-burger burger" data-target="navMenu">
